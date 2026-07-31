@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Brand,UnitPrice,Stock
+P101,Laptop,Electronics,Dell,65000,20
+P102,Smartphone,Electronics,Samsung,30000,35
+P103,Headphones,Accessories,Sony,4500,60
+P104,Keyboard,Accessories,Logitech,1800,75
+P105,Mouse,Accessories,Logitech,900,90
+P106,Monitor,Electronics,LG,15000,25
+P107,Printer,Electronics,HP,12000,18
+P108,Tablet,Electronics,Lenovo,22000,30
+P109,Webcam,Accessories,Logitech,3500,50
+P110,SSD 1TB,Storage,Samsung,8500,40

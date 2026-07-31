@@ -1,0 +1,11 @@
+CustomerID,CustomerName,Gender,City,State,Country,Email,JoinDate
+C001,Amit Sharma,Male,Hyderabad,Telangana,India,amit@gmail.com,15-01-2024
+C002,Priya Reddy,Female,Bangalore,Karnataka,India,priya@gmail.com,10-02-2024
+C003,Rahul Verma,Male,Chennai,Tamil Nadu,India,rahul@gmail.com,05-03-2024
+C004,Sneha Patel,Female,Mumbai,Maharashtra,India,sneha@gmail.com,25-01-2024
+C005,Arjun Kumar,Male,Delhi,Delhi,India,arjun@gmail.com,18-04-2024
+C006,Neha Singh,Female,Pune,Maharashtra,India,neha@gmail.com,12-05-2024
+C007,Vikram Rao,Male,Hyderabad,Telangana,India,vikram@gmail.com,01-06-2024
+C008,Anjali Das,Female,Kolkata,West Bengal,India,anjali@gmail.com,20-06-2024
+C009,Kiran Joshi,Male,Jaipur,Rajasthan,India,kiran@gmail.com,15-07-2024
+C010,Meera Nair,Female,Kochi,Kerala,India,meera@gmail.com,05-08-2024
